@@ -1,4 +1,4 @@
-# HTML5 Geolocation testing with Cucumber
+# HTML5 Geolocation testing with Cucumber - Basic
 
 An example of a fully-working Rails 3 application using the HTML5 Geolocation standard with all the corresponding Cucumber scenarios implemented.
 
